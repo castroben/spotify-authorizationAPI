@@ -1,0 +1,22 @@
+{
+  "name": "spotifyautorizationexample",
+  "version": "1.0.0",
+  "description": "example of using spotify's web api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castroben/spotify-authorizationAPI.git"
+  },
+  "author": "Benjamin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/castroben/spotify-authorizationAPI/issues"
+  },
+  "homepage": "https://github.com/castroben/spotify-authorizationAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
